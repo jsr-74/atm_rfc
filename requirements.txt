@@ -1,3 +1,5 @@
 Flask==3.0.3
 pyrfc
+python==3.8
 gunicorn==22.1.0
+
