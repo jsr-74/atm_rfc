@@ -1,0 +1,3 @@
+Flask==3.0.3
+pyrfc==2.10.0
+gunicorn==22.1.0
